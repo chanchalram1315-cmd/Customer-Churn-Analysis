@@ -1,2 +1,2 @@
-# Customer-Churn-Analysis
-Customer Churn Analysis
+# Cryptocurrency Volatility Prediction
+Steps: preprocessing, EDA, feature engineering, model training, evaluation.
